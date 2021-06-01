@@ -1,6 +1,6 @@
 # eCommerceProject
 
-### Kullanıcılar sisteme bilgilerini girerek üye olabilmelidir.
+### + Kullanıcılar sisteme bilgilerini girerek üye olabilmelidir.
 
 :white_medium_square: Sisteme temel kullanıcı bilgileri , e-posta ve parolayla üye olunabilmelidir. Temel kullanıcı bilgileri : ad, soyad, e-posta, parola. Temel bilgilerin tamamı zorunludur.
 
