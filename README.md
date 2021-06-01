@@ -1,6 +1,6 @@
 # eCommerceProject
 
-Kullanıcılar sisteme bilgilerini girerek üye olabilmelidir.
+1.Kullanıcılar sisteme bilgilerini girerek üye olabilmelidir.
 
 :white_medium_square: Sisteme temel kullanıcı bilgileri , e-posta ve parolayla üye olunabilmelidir. Temel kullanıcı bilgileri : ad, soyad, e-posta, parola. Temel bilgilerin tamamı zorunludur.
 
@@ -19,14 +19,14 @@ Kullanıcılar sisteme bilgilerini girerek üye olabilmelidir.
 :white_medium_square:Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
 
 
-Kullanıcılar sisteme Google hesapları ile üye olabilmelidir. (Simulasyon)
+2.Kullanıcılar sisteme Google hesapları ile üye olabilmelidir. (Simulasyon)
 
 :white_medium_square:İlerleyen zamanlarda başka yetkilendirme servisleri de kullanılabilir. (Sistemi dış servis entegrasyonu olacak şekilde yapılandırınız.)
 
 :white_medium_square:Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
 
 
-Kullanıcılar e-posta ve parola bilgisiyle sisteme giriş yapabilmelidir.
+3.Kullanıcılar e-posta ve parola bilgisiyle sisteme giriş yapabilmelidir.
 
 :white_medium_square:E-posta ve parola zorunludur
 
